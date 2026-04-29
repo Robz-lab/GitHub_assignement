@@ -34,4 +34,5 @@ Schneersohn Nathan - https://github.com/nathanpro-prog/ml-poc-project/tree/main
 Viallet Milan
 Vicente Matheo https://github.com/matheovicente/ml-poc-project/tree/main
 Wang Leo
-Wangrevelain Joseph
+Wangrevelain Joseph https://github.com/jwangrevelain-hue/ml-poc-project-jw/tree/main
+
