@@ -15,7 +15,7 @@ Diallo-Dou Louis - https://github.com/m3pr1x/ml-poc-project
 Dorn Maximilien
 Fernandez de la Vega Émilie - https://github.com/emiliefdelavega-cyber/ml-poc-project
 Flasaquier Simon
-Fortier Lou-Anne
+Fortier Lou-Anne https://github.com/lfortier-collab/ml-poc-project
 Guesnier-Maleterre Louise https://github.com/lguesnier-cell/ml-poc-project
 Fortier Lou-Anne
 JaskulkÃ© Flore
