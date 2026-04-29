@@ -15,7 +15,7 @@ Diallo-Dou Louis
 Dorn Maximilien
 Fernandez de la Vega Émilie
 Flasaquier Simon
-Fortier Lou-Anne
+Fortier Lou-Anne https://github.com/lfortier-collab/ml-poc-project
 Guesnier-Maleterre Louise
 Fortier Lou-Anne
 JaskulkÃ© Flore
