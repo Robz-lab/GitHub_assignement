@@ -2,6 +2,11 @@
 
 Cet exercice est basé sur [ce projet](https://github.com/mathurinm/github-assignment) maintenu par Mathurin Massias.
 
+## Si vous pouvez facilement accèder au dépôt cloné que vous aviez créer pour le cours de ML
+
+- Mettez à jour votre working directory : git pull upstream main pour remettre à 0 les fichiers ReadMe et students.txt
+- Passez à l'étape 6
+
 ## 1. Forker le dépôt
 
 -   Cliquez sur **Fork** en haut à droite de la page GitHub du projet.
@@ -36,12 +41,13 @@ Vérifier : git status
 ## 7. Modifier le fichier students.txt
 
 -   Ouvrez le fichier localement.
--   Ajoutez un **X** à la fin de la ligne où apparaît votre nom.
+-   Ajoutez à la fin de la ligne où apparaît votre nom votre dépôt forké depuis ce dépôt - https://github.com/thom1100/ml-poc-project/tree/main
+      Il devrait ressembler à qqch de ce style : https://github.com/votre_nom_utilisateur/ml-poc-project/tree/main
 
 ## 8. Ajouter et commit
 
     git add students.txt
-    git commit -m "Update students.txt : Ajout du X à côté de mon nom"
+    git commit -m "Update students.txt : Ajout du nom de mon repo public à côté de mon nom"
 
 Vérifier : git status
 
