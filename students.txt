@@ -3,7 +3,7 @@ Abdo Joseph - https://github.com/le-djo/GitHub_assignement/blob/main/students.tx
 Aidan Annaelle - https://github.com/annaelleaidan/ml-poc-project.git
 Attia Noa
 Benaim Lior
-Capone LÃ©o
+Capone LÃ©o https://github.com/Lcapone7/ml-poc-project
 Cardona Monget Milo - https://github.com/plutoskio/ml-poc-project/tree/main
 Carriou Manech
 Debard Hugo - https://github.com/gglm-web/ml-poc-project
