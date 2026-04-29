@@ -20,7 +20,7 @@ Guesnier-Maleterre Louise
 Fortier Lou-Anne
 JaskulkÃ© Flore
 Lallau Ilyes
-Landry Madeleine
+Landry Madeleine - https://github.com/mlandry-wq/ml-poc-project
 Lhoest Hugo
 Libourel Justine
 Lounis Amine - https://github.com/AmineLnis/ml-poc-project
