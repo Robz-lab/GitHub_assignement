@@ -13,7 +13,7 @@ Delattre Alexandre
 de l'Epine Victor
 Diallo-Dou Louis
 Dorn Maximilien
-Fernandez de la Vega Émilie
+Fernandez de la Vega Émilie - https://github.com/emiliefdelavega-cyber/ml-poc-project
 Flasaquier Simon
 Fortier Lou-Anne
 Guesnier-Maleterre Louise
