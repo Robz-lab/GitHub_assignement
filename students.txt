@@ -10,7 +10,7 @@ Debard Hugo - https://github.com/gglm-web/ml-poc-project
 Delattre Alexandre - https://github.com/adelattre-cmd/ml-poc-project.git
 de l'Epine Victor - https://github.com/v2lepine/ml-poc-project
 Diallo-Dou Louis - https://github.com/m3pr1x/ml-poc-project
-Dorn Maximilien
+Dorn Maximilien - https://github.com/Maxoudr/ml-poc-project
 Fernandez de la Vega Émilie - https://github.com/emiliefdelavega-cyber/ml-poc-project
 Flasaquier Simon
 Fortier Lou-Anne https://github.com/lfortier-collab/ml-poc-project
