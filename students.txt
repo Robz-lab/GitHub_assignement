@@ -1,5 +1,5 @@
 ﻿Milcent Thomas - https://github.com/thom1100/ml-poc-project/tree/main
-Abdo Joseph - https://github.com/le-djo/GitHub_assignement/blob/main/students.txt
+Abdo Joseph - https://github.com/le-djo/ml-poc-project
 Aidan Annaelle - https://github.com/annaelleaidan/ml-poc-project.git
 Attia Noa
 Benaim Lior
