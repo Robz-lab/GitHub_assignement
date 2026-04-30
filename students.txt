@@ -2,7 +2,7 @@ Milcent Thomas X
 Abdo Joseph
 Aidan Annaelle
 Attia Noa
-Benaim Lior
+Benaim Lior https://github.com/liorb15/ml-poc-project/tree/main
 Capone Léo
 Cardona Monget Milo
 Carriou Manech
